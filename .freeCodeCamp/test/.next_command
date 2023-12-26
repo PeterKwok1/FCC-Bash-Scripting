@@ -63,3 +63,4 @@ cat > questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+cat > questionnaire.sh
