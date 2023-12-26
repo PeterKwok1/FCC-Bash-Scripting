@@ -61,3 +61,4 @@ ls --color=auto
 cat echo hellow questionare > questionnaire.sh
 cat > questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
