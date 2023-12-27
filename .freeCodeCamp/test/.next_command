@@ -101,3 +101,5 @@ cat >> questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+man --help
+man echo
