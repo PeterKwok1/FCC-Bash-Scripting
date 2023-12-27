@@ -71,3 +71,4 @@ which bash
 ./questionnaire.sh
 ls --color=auto -l
 ./questionnaire.sh
+cat > questionnaire.sh
