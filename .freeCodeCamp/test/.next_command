@@ -106,3 +106,4 @@ man echo
 echo --help
 man echo
 man echo
+./questionnaire.sh
