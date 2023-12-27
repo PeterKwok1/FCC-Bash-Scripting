@@ -77,3 +77,12 @@ cat > questionnaire.sh
 cat >> questionnaire.sh
 cat >> questionnaire.sh
 ./questionnaire.sh
+cat >> questionnaire.sh
+pw
+pwd
+./questionnaire.sh
+cat > questionnaire.sh
+./questionnaire.sh
+which bash
+cat > questionnaire.sh
+cat > questionnaire.sh
