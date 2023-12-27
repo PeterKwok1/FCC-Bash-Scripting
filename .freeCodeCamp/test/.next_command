@@ -103,3 +103,6 @@ cat >> questionnaire.sh
 echo --help
 man --help
 man echo
+echo --help
+man echo
+man echo
