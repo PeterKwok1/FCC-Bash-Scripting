@@ -70,3 +70,4 @@ chmod +x questionnaire.sh
 which bash
 ./questionnaire.sh
 ls --color=auto -l
+./questionnaire.sh
