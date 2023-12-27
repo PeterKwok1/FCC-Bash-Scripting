@@ -91,3 +91,4 @@ pwd
 ./questionnaire.sh
 echo QUESTION1
 cat >> questionnaire.sh
+./questionnaire.sh
