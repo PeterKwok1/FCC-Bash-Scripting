@@ -92,3 +92,7 @@ pwd
 echo QUESTION1
 cat >> questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
