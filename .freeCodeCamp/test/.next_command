@@ -87,3 +87,7 @@ which bash
 cat > questionnaire.sh
 cat > questionnaire.sh
 cat > questionnaire.sh
+pwd
+./questionnaire.sh
+echo QUESTION1
+cat >> questionnaire.sh
