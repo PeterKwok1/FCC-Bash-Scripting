@@ -187,3 +187,7 @@ help test
 [[ 10 -ne 5 ]]
 [[ 10 -lt 5 ]]
 bad_command
+ls --color=auto
+ls --color=auto
+ls --color=auto
+ls --color=auto
