@@ -162,3 +162,4 @@ help if
 ./countdown.sh
 ./countdown.sh 123
 ./countdown.sh arg1
+./countdown.sh 123
