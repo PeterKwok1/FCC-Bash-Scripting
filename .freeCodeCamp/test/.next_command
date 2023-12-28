@@ -185,3 +185,5 @@ help
 help [[
 help test
 [[ 10 -ne 5 ]]
+[[ 10 -lt 5 ]]
+bad_command
