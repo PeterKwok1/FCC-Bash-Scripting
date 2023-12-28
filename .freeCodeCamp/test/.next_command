@@ -176,3 +176,4 @@ help test
 __vsc_prompt_cmd_original
 [[ 4 -le 5 ]]
 echo $?
+[[ 4 -ge 5 ]]
