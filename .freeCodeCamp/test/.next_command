@@ -191,3 +191,4 @@ ls --color=auto
 ls --color=auto
 ls --color=auto
 ls --color=auto
+ls --color=auto -y
