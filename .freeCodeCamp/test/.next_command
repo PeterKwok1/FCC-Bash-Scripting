@@ -159,3 +159,6 @@ help
 __vsc_prompt_cmd_original
 man if
 help if
+./countdown.sh
+./countdown.sh 123
+./countdown.sh arg1
