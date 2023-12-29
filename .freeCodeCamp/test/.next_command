@@ -398,3 +398,5 @@ help let
 ./fortune.sh
 ./fortune.sh
 help
+__vsc_prompt_cmd_original
+help function
