@@ -260,3 +260,4 @@ help test
 help echo
 ./countdown.sh 2
 ./countdown.sh 1
+./countdown.sh 1
