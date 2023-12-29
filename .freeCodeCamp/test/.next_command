@@ -377,3 +377,11 @@ echo ${ARR[*]}
 declare -[
 declare -p
 declare -p ARR
+./fortune.sh
+./r
+./fortune.sh
+./fortune.sh
+__vsc_prompt_cmd_original
+./fortune.sh
+./fortune.sh
+./fortune.sh
