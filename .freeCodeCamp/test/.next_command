@@ -283,3 +283,7 @@ echo $I
 (( I++ ))
 echo $I
 help let
+help test
+help [[
+help let
+(( I += 10 ))
