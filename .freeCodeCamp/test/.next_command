@@ -417,3 +417,5 @@ __vsc_prompt_cmd_original
 [[ "hello world" =~ "lo wor" ]]
 [[ "hello world" =~ ^h ]]
 [[ "hello world" =~ ^h.+d$ ]]
+VAR="hellow world"
+VAR="hello world"
