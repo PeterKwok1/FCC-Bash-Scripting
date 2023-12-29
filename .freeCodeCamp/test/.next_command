@@ -290,3 +290,6 @@ help let
 echo $I
 $(( I + 4 ))
 echo $(( I + 4 ))
+__vsc_prompt_cmd_original
+echo echo $I
+echo $I
