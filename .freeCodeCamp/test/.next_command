@@ -393,3 +393,5 @@ declare -p
 ./fortune.sh
 help let
 ./fortune.sh
+./fortune.sh
+./fortune.sh
