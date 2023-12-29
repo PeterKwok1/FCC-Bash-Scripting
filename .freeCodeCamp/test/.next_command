@@ -368,3 +368,4 @@ __vsc_prompt_cmd_original
 ./fortune.sh
 __vsc_prompt_cmd_original
 ARR=("a" "b" "c")
+echo ${ARR[1]}
