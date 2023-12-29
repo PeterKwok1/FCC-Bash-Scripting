@@ -413,3 +413,5 @@ help test
 [[ hello == world ]]
 __vsc_prompt_cmd_original
 [[ hello =~ el ]]
+[[ -n "hello world =~ lo wor" ]]
+[[ "hello world" =~ "lo wor" ]]
