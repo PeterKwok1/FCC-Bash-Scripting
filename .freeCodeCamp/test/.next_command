@@ -243,3 +243,4 @@ help test
 ./countdown.sh s
 help
 ./countdown.sh 10
+help
