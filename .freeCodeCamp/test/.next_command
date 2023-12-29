@@ -428,3 +428,4 @@ echo $VAR
 ./fortune.sh sdf
 ./fortune.sh
 ./fortune.sh test
+./fortune.sh
