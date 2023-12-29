@@ -14,9 +14,8 @@ GET_FORTUNE() {
         echo Try again. Make sure it ends with a question mark:
     fi 
     read QUESTION
+    echo -e "\n${RESPONSES[$N]}"
 }
-
-GET_FORTUNE
 
 until [[ $QUESTION =~ \?$ ]]
 do
