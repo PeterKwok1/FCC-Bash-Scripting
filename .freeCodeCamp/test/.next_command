@@ -419,3 +419,4 @@ __vsc_prompt_cmd_original
 [[ "hello world" =~ ^h.+d$ ]]
 VAR="hellow world"
 VAR="hello world"
+echo $VAR
