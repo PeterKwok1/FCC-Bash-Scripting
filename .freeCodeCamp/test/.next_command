@@ -405,3 +405,4 @@ help function
 help
 help until
 help test
+./fortune.sh sdf
