@@ -366,3 +366,5 @@ git branch
 git push -u origin master
 __vsc_prompt_cmd_original
 ./fortune.sh
+__vsc_prompt_cmd_original
+ARR=("a" "b" "c")
