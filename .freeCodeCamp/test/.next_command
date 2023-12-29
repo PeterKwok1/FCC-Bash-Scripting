@@ -301,3 +301,6 @@ echo $J
 declare -p
 declare -p J
 declare -p RANDOM
+echo RANDOM % 75
+__vsc_prompt_cmd_original
+echo $(( RANDOM % 75 ))
