@@ -429,3 +429,15 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh test
 ./fortune.sh
+./fortune.sh
+./fortune.sh test?
+./fortune.sh
+./fortune.sh
+./fortune.sh test
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+touch five.sh

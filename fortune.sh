@@ -13,12 +13,12 @@ GET_FORTUNE() {
       else
         echo Try again. Make sure it ends with a question mark:
     fi 
-    read QUESTION
+    
     echo -e "\n${RESPONSES[$N]}"
 }
 
+read QUESTION
 until [[ $QUESTION =~ \?$ ]]
 do
-  GET_FORTUNE again 
+  GET_FORTUNE 
 done
-
