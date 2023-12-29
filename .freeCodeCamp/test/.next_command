@@ -369,3 +369,8 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $*
+__vsc_prompt_cmd_original
+help [[
+help let
+echo ${ARR[*]}
