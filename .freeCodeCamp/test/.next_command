@@ -356,3 +356,8 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+git remote
+git remote remove coderoad
+git remote add origin https://github.com/PeterKwok1/FCC-Bash-Scripting.git
+git remote
+git add .
