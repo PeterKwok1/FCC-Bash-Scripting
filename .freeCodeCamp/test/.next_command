@@ -410,3 +410,4 @@ help [[
 help test
 ./fortune.sh
 [[ hello == hello ]]
+[[ hello == world ]]
