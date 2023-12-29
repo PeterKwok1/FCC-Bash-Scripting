@@ -293,3 +293,4 @@ echo $(( I + 4 ))
 __vsc_prompt_cmd_original
 echo echo $I
 echo $I
+J=$(( I - 6 ))
