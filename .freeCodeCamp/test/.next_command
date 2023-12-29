@@ -407,3 +407,6 @@ help until
 help test
 ./fortune.sh sdf
 help [[
+help test
+./fortune.sh
+[[ hello == hello ]]

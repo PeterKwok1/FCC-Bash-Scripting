@@ -11,7 +11,7 @@ GET_FORTUNE() {
     read QUESTION
 }
 
-until [[ $QUESTION == "test?" ]]
+until [[ $QUESTION = "test?" ]]
 do
   GET_FORTUNE  
 done
