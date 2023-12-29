@@ -287,3 +287,4 @@ help test
 help [[
 help let
 (( I += 10 ))
+echo $I
