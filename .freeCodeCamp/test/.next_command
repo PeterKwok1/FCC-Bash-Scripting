@@ -425,3 +425,4 @@ echo $VAR
 [[ $VAR =~ /?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh sdf
