@@ -271,3 +271,5 @@ __vsc_prompt_cmd_original
 ./bingo.sh
 [intenv
 printenv
+echo LANG
+echo $LANG
