@@ -442,3 +442,21 @@ echo $VAR
 ./fortune.sh
 touch five.sh
 chmod +x five.sh
+./fortune.sh
+./f
+./fortune.sh
+./fortune.sh
+[[ hello =~ \^h ]]
+[[ hello =~ ^h ]]
+[[ -n !(( hello =~ ^h )) ]]
+[[ -n !(( hello =~ ^h )) ]]
+help test
+help let
+__vsc_prompt_cmd_original
+$?[[ hello =~ ^h ]]
+__vsc_prompt_cmd_original
+[[ hello =~ ^h ]]
+./fortune.sh
+./fortune.sh
+./fortune.sh
+git add .
