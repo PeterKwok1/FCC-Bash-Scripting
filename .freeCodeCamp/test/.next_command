@@ -500,3 +500,9 @@ clear
 help
 type help
 help type
+help man
+type man
+man type
+type help
+help type
+type echo
