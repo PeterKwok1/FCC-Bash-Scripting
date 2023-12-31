@@ -506,3 +506,4 @@ man type
 type help
 help type
 type echo
+type read
