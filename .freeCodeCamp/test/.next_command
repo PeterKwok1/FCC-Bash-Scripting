@@ -496,3 +496,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./questionnaire.sh
 ./five.sh
 clear
+./five.sh
